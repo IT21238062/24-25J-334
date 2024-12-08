@@ -2,7 +2,7 @@
 # IT21238062 - Vithusshan.U
 # Efficient Water Control System - IT21238062
 
-The Agro Farming Automation System is designed to monitor and control essential farming parameters, such as soil moisture and water levels, using machine learning and IoT technologies. This project integrates predictive models, automated control systems, and a cloud-based database for efficient agricultural management.
+The **Efficient Water Control System** optimizes water usage in smart farming by integrating IoT sensors, real-time data, and machine learning. Using a trained RandomForestClassifier, it predicts optimal water levels, minimizing waste and enhancing crop productivity. This scalable, automated solution supports sustainable agriculture in urban and vertical farming setups.
 
 ## Table of Contents
 
