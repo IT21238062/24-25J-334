@@ -1,0 +1,2 @@
+D:/PP2 New/plant-care/frontend/android/app/.cxx/Debug/3w4bl4y5/x86/CMakeFiles/edit_cache.dir
+D:/PP2 New/plant-care/frontend/android/app/.cxx/Debug/3w4bl4y5/x86/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,30 @@
+{
+  "editor.formatOnSave": true,
+  "files.autoSave": "onFocusChange",
+  "editor.codeActionsOnSave": {
+    "source.organizeImports": "always"
+  },
+  "files.exclude": {
+    "**/__pycache__": true,
+    "**/*.pyc": true,
+    "venv/": true
+  },
+  "[python]": {
+    "diffEditor.ignoreTrimWhitespace": false,
+    "editor.defaultColorDecorators": "always",
+    "gitlens.codeLens.symbolScopes": ["!Module"],
+    "editor.defaultFormatter": "ms-python.black-formatter"
+  },
+  "cSpell.words": [
+    "dotenv",
+    "fastapi",
+    "genai",
+    "joblib",
+    "lastrowid",
+    "numpy",
+    "OPENWEATHER",
+    "pydantic",
+    "scikit",
+    "xgboost"
+  ]
+}
